@@ -1,5 +1,5 @@
 # AB-Testing
-Repository for A/B Testing workshop.
+Repository for A/B Testing workshop
 
 ### Notes
 The `requirements.txt` file lists all Python libraries that these notebooks depend on.  If you have a local Jupyter Notebook installation,  the libraries will be installed using:
